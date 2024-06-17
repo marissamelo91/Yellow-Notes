@@ -62,6 +62,7 @@ const saveNewNote = async (data) => {
     })
 }
 
+//delete button function 
 const getNewId = () => {
     const id = Math.floor((Math.random() * 9000) + 1000);
     return `${id}`;

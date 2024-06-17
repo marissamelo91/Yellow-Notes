@@ -2,7 +2,7 @@
 
 ## Description
 Yellow-Notes is a simple note-taking application that allows users to create, edit, and delete notes.
-The application is built using Node and JSON package. 
+The application is built using Express.Js. 
 
 ## User Story
 AS A small business owner
@@ -28,6 +28,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![screenshot](./public/css/note-taker.gif)
 
 ## Render Link
+https://yellow-notes.onrender.com
 
 ## Credits
 Youtube tutorials (Programming with Mosh, BroCode)
